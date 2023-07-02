@@ -22,7 +22,7 @@ O usuário deve ser capaz de:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: ( https://welington1209.github.io/desafio-flexbox-cartao-de-visita/ )
 
 ## Processo
 
